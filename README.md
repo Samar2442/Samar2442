@@ -81,14 +81,33 @@ Turning ideas into impactful digital solutions 🚀
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samar2442&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=Samar2442&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samar2442&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
+<!-- Glass Container -->
+<div style="display:flex; justify-content:center; align-items:center; gap:20px; flex-wrap:wrap;">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Samar2442&show_icons=true&theme=tokyonight&hide_border=true" width="320" style="border-radius:15px; box-shadow:0 8px 32px rgba(0,0,0,0.4); transition:0.3s;"/>
+
+<img src="https://streak-stats.demolab.com?user=Samar2442&theme=tokyonight&hide_border=true" width="320" style="border-radius:15px; box-shadow:0 8px 32px rgba(0,0,0,0.4); transition:0.3s;"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samar2442&layout=compact&theme=tokyonight&hide_border=true" width="320" style="border-radius:15px; box-shadow:0 8px 32px rgba(0,0,0,0.4); transition:0.3s;"/>
+
+</div>
+
+</div>
+
+---
+
+## 🧠 Tech Highlights
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Full%20Stack-Developer-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+<img src="https://img.shields.io/badge/Cybersecurity-Enthusiast-FF4C60?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-7CFC00?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</div>
 
 ---
 
@@ -112,6 +131,7 @@ Turning ideas into impactful digital solutions 🚀
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
 </p>
 
 ---
