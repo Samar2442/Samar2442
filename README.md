@@ -82,12 +82,20 @@ Turning ideas into impactful digital solutions 🚀
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Samar2442&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Samar2442&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
   <img src="https://streak-stats.demolab.com?user=Samar2442&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Samar2442&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samar2442&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samar2442&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
